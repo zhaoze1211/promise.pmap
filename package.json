@@ -1,11 +1,21 @@
 {
   "name": "promise.pmap",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "promise.pmap",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [
+    "concurrency",
+    "retry",
+    "promise",
+    "map"
+  ],
   "author": "zhaoze",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhaoze1211/promise.pmap.git"
+  }
 }
